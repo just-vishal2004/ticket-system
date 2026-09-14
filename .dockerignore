@@ -1,0 +1,5 @@
+ticket-system
+server.log
+*.log
+.git
+.env
