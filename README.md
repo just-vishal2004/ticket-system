@@ -104,9 +104,9 @@ transition (valid, backward, skip, reopen-after-close).
 
 ## Deployment
 
-- GitHub repository: (add link)
-- Deployed URL: (add after deploying)
-- Public health check: (add after deploying)/health
+- GitHub repository: https://github.com/just-vishal2004/ticket-system
+- Deployed URL: https://ticket-system-2399.onrender.com
+- Public health check: https://ticket-system-2399.onrender.com/health
 
 ## Assumptions
 
